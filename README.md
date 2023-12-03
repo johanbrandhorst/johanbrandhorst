@@ -2,7 +2,7 @@
 
 I'm Johan, I've been doing open source since 2016, mostly in the Go ecosystem 🐻. I'm currently a maintainer 👨‍🔧 of:
 
-- [**The Go WebAssembly Port**](https://github.com/golang/go/wiki/WebAssembly) 🌐, allowing the use of Go in the browser and soon in the backend too using [WASI](https://wasi.dev).
+- [**The Go WebAssembly Port**](https://github.com/golang/go/wiki/WebAssembly) 🌐, allowing the use of Go in the browser and the backend.
 - [**The gRPC-Gateway**](https://github.com/grpc-ecosystem/grpc-gateway) 🌉, a HTTP/JSON <-> gRPC translation layer which is serving companies and open source projects such as [etcd](https://github.com/etcd-io/etcd/blob/master/Documentation/dev-guide/api_grpc_gateway.md), [Core OS](https://coreos.com/blog/grpc-protobufs-swagger.html), [Cockroach DB](https://www.cockroachlabs.com/), [Chef](https://www.chef.io/) and others.
 - [**Certify**](https://github.com/johanbrandhorst/certify) 👨‍⚖️, a Go in-process certificate manager that automatically issues and renews certificates for your application.
 
