@@ -8,7 +8,8 @@ I'm Johan, I've been doing open source since 2016, mostly in the Go ecosystem �
 
 I'm also a contributor 👨‍💻 to:
 
-- [**The Go standard library**](https://github.com/golang/go), especially the WebAssembly port, where I ported the GopherJS `net/http` implementation to the standard library, allowing the use of `net/http` HTTP requests from inside WebAssembly applications.
+- [**The Go standard library**](https://github.com/golang/go), especially the WebAssembly port, where I ported the GopherJS `net/http` implementation to the standard library, allowing the use of `net/http` HTTP requests from inside WebAssembly applications. I also wrote many of the proposals for greater WASI support, including the [wasip1](https://github.com/golang/go/issues/58141), [go:wasmimport](https://github.com/golang/go/issues/59149), [go:wasmexport](https://github.com/golang/go/issues/65199) and [function ABI type restriction relaxation](https://github.com/golang/go/issues/66984) proposals, all of which are now part of the Go compiler.
+- [**The encoding/json/v2 experiment**](https://github.com/go-json-experiment/json), in which I've primarily contributed with code review and design suggestions.
 - [**gRPC-Go**](https://github.com/grpc/grpc-go), the official gRPC library for Go.
 
 I author blog posts 📰 on varying topics, mostly relating to Go and gRPC on [my personal website](https://jbrandhorst.com).
